@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "UiForge_Parcel": {
+      "name": "UiForge Parcel Delivery",
+      "version": "1.0.0",
+      "author": "UiForge - Ked.ss",
+      "description": "Parcel Delivery Job Script",
+      "github": "https://github.com/UiForge/UiForge_Parcel",
+      "latest": true
+    }
+  },
+  "lastUpdated": "2024-01-01T00:00:00Z",
+  "updateUrl": "https://raw.githubusercontent.com/HastH8/uiforge_verison/main/script.json"
+}
+
