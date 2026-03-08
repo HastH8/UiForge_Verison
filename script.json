@@ -7,9 +7,17 @@
       "description": "Parcel Delivery Job Script",
       "github": "https://github.com/UiForge/UiForge_Parcel",
       "latest": true
-    }
+    },
+    "UiForge_Mechanic": {
+      "name": "UiForge All in One Mechanic",
+      "version": "1.0.0",
+      "author": "UiForge - Ked.ss",
+      "description": "All in one Mechanic system with full tablet system and self service with shop",
+      "github": "https://github.com/UiForge/UiForge-Mechanic",
+      "latest": true
+    },
   },
-  "lastUpdated": "2024-01-01T00:00:00Z",
+  "lastUpdated": "2026-03-10T00:00:00Z",
   "updateUrl": "https://raw.githubusercontent.com/HastH8/uiforge_verison/main/script.json"
 }
 
